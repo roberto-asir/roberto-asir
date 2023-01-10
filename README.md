@@ -26,7 +26,6 @@ located_in: Navarra, Spain
 next_job: DevOps
 education:
   [
-    "Self-Taught Linux administrator in web hosting environments",
     "Bachelor's in Operating Systems and Networks administration",
     "Bachelor's in Web applications development",
   ]
@@ -43,8 +42,8 @@ fields_of_interests:
   ]
 technical_background:
   [
-    "Linux and web services administration",
-    "Bashscripting",
+    "Linux and web services administration in a web hosting environtment",
+    "Bash scripting to automate any repetitive systems task",
     "Apache, Nginx, Nagios, Docker",
     "Web development: PHP, Laravel, Vue.js",
   ]
