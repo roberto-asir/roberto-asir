@@ -1,8 +1,7 @@
-### Some Bits About Me  👨🏻‍💻  
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Some%20Bits%20About%20Me&fontSize=60)
+ 
 
-
-<!--
-**roberto-asir/roberto-asir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **roberto-asir/roberto-asir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,11 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://robertoasir.com">https://robertoasir.com</a>
+<p align="center">
+  <a href="https://robertoasir.com"><img src="https://img.icons8.com/color-glass/48/null/home.png" width="45" height="45" /></a>
+  <a href="https://www.linkedin.com/in/roberto-p%C3%A9rez-ruiz-6a06b44a"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  width="45" height="45" /></a>
+</p>
 
-<a href="https://www.linkedin.com/in/roberto-p%C3%A9rez-ruiz-6a06b44a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BY3uPp2LCSK%2BgdwisLWh56A%3D%3D"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  width="45" height="45" /></a>
-
-
+### 
 ```yaml
 name: Roberto Pérez
 located_in: Navarra, Spain
