@@ -100,5 +100,7 @@ hobbies: ["Playing piano", "Travel"]
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa./api/top-langs/?username=roberto-asir)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa./api/top-langs/?username=roberto-asir)]
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/pin?username=roberto-asir&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
