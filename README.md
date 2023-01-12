@@ -98,5 +98,5 @@ hobbies: ["Playing piano", "Travel"]
 
 ## :chart_with_upwards_trend:  My GitHub languages!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roberto-asir)](https://github.com/roberto-asir/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/pin?username=roberto-asir&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
