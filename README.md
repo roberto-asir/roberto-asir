@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ```yaml
 name: Roberto Pérez
 located_in: Navarra, Spain
-next_job: DevOps
+next_job: SRE / DevOps
 education:
   [
     "Bachelor's in Operating Systems and Networks administration",
